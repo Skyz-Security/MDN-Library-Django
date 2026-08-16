@@ -33,4 +33,4 @@ To get this project up and running locally on your computer:
     Open tab to http://127.0.0.1:8000 to see the main site, with your new objects.
 
 
-[Based on MDN Django Local Library tutorial] (https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django)
+[Based on MDN Django Local Library tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django)
