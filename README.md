@@ -31,3 +31,6 @@ To get this project up and running locally on your computer:
     Open a browser to http://127.0.0.1:8000/admin/ to open the admin site
     Create a few test objects of each type.
     Open tab to http://127.0.0.1:8000 to see the main site, with your new objects.
+
+
+[Based on MDN Django Local Library tutorial] (https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django)
